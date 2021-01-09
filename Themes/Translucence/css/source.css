@@ -1,10 +1,10 @@
 :root {
-  --app-bg: url(https://i.imgur.com/U8bSjj5.jpg);
+  --app-bg: url(https://ar.pinterest.com/fec6b8c4-c8ed-4e05-a94a-be67c40b1958);
   --app-blur: 6px;
   --app-margin: 24px;
   --app-radius: 8px;
-  --app-accent: #d73d3d;
-  --app-accent-rgb: 215,61,61;
+  --app-accent: #5287bf;
+  --app-accent-rgb: 82, 135, 191;
   --app-accent-text: #000;
   --sidebar-color: rgba(0,0,0,0.4);
   --main-content-color: rgba(0,0,0,0.2);
